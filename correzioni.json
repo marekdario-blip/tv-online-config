@@ -1,5 +1,5 @@
 {
-  "versione": 8,
+  "versione": 9,
   "lcn": {
     "Rai1.it": 1, "Rai2.it": 2, "Rai3.it": 3, "Rete4.it": 4, "Canale5.it": 5,
     "Italia1.it": 6, "LA7.it": 7, "TV8.it": 8, "Nove.it": 9, "20.it": 20,
@@ -34,6 +34,7 @@
       "alt": ["https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8"] },
     { "id": "MediasetExtra.it", "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8",
       "alt": ["https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8"] },
+    { "id": "Rai1.it", "url": "http://team-tv.co:81/rai1/index.m3u8" },
     { "id": "Rete4.it", "nome": "Rete 4", "categoria": "Generali",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8" },
 
